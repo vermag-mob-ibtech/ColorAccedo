@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ColorAccedo</string>
+    <string name="title_activity_game">ColorAccedo</string>
+    <string name="button_ok">OK</string>
+    <string name="position">Position</string>
+    <string name="player_name">Player Name</string>
+    <string name="high_score">High Score</string>
+    <string name="beginner">Beginner</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="expert">Expert</string>
+    <string name="score">Score :</string>
+    <string name="restart">Restart the game</string>Restart the game
+    <string name="restart_message"> Are you sure that you want to restart the game?</string>
+    <string name="quit">Quit the game</string>Restart the game
+    <string name="quit_message"> Do you want to quit the game?</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+    <string name="game_over">Game Over!</string>
+    <string name="user_name">Please enter your username</string>
+    <string name="game_score">The game score is</string>
+    <string name="error_user">Please enter a username!</string>
+    <string name="error_user_exist">This username already exist. Try another name.</string>
+
+
+</resources>
